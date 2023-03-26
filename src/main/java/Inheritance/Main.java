@@ -6,5 +6,6 @@ public class Main {
         c.pubVar=5;
         Parent p=new Parent();
         p.pubVar=10;
+        c.getChildVar();
     }
 }
